@@ -1,4 +1,4 @@
-<h6 align="left">BackEnd</h6>
+<h4 align="left">BackEnd</h4>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<h6 align="left">FrontEnd</h6>
+<h4 align="left">FrontEnd</h4>
 
 ###
 
@@ -58,7 +58,7 @@
 
 ###
 
-<h6 align="left">DevOps</h6>
+<h4 align="left">DevOps</h4>
 
 ###
 
@@ -86,12 +86,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cu-e&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
 
 ###
