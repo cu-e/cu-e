@@ -1,8 +1,8 @@
-<h4 align="left">BackEnd</h4>
+<h3 align="center">BackEnd</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gradle" height="40" alt="gradle logo"  />
@@ -24,11 +24,11 @@
 
 ###
 
-<h4 align="left">FrontEnd</h4>
+<h3 align="center">FrontEnd</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
@@ -58,11 +58,11 @@
 
 ###
 
-<h4 align="left">DevOps</h4>
+<h3 align="center">DevOps</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
@@ -89,3 +89,4 @@
 </div>
 
 ###
+
