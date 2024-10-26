@@ -37,6 +37,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bun" height="40" alt="bun logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=rollupjs" height="40" alt="rollupdotjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=webpack" height="40" alt="webpack logo"  />
