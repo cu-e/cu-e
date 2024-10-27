@@ -11,6 +11,7 @@
     🧑🏻‍🎓 URFU ММ'28 <br>
   </div>
 </div>
+  <br>
   <table>
   <br>
     <td align="center">
