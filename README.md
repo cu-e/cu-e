@@ -10,7 +10,7 @@
     🥸 18 y.o <br>
     🧑🏻‍🎓 URFU ММ'28 <br>
   </div>
-</div>
+<!-- </div>
   <br>
   <table>
   <br>
@@ -20,7 +20,7 @@
 В данный момент студент МатМехa (Прикладной Математики) в УрФУ.
       </td>
   </table>
-</div>
+</div> -->
     
 <h3 align="left">Links</h3>
 
@@ -31,11 +31,9 @@
   <a target="_blank" href="https://github.com/cu-e/" ><img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  /></a>
   <a target="_blank" href="t.me/cuee_e" ><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" height="40" alt="vk logo"  />
 </div>
+    <!--
 <h2>Мой стек:</h2>
 <h3 align="center">BackEnd</h3>
-
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
@@ -55,13 +53,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="apachekafka logo"  />
 </div>
-
-###
-
 <h3 align="center">FrontEnd</h3>
-
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -91,13 +83,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=codepen" height="40" alt="codepen logo"  />
 </div>
-
 ###
-
 <h3 align="center">DevOps</h3>
-
 ###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
@@ -117,8 +105,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
 </div>
-
 ###
-
+ -->
 ###
 
