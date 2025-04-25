@@ -6,9 +6,9 @@
 <div>
   <img src="https://github.com/cu-e/cu-e/blob/main/2024-10-27%2018.27.04.jpg" height="80" alt="gitlab logo" align="left" />
   <div>
-    🏄🏻‍♂️ Egor Toropov <br>
-    🥸 18 y.o <br>
-    🧑🏻‍🎓 URFU ММ'28 <br>
+    Egor Toropov <br>
+    18 y.o <br>
+    URFU ММ'28 <br>
   </div>
 <!-- </div>
   <br>
@@ -21,17 +21,17 @@
       </td>
   </table>
 </div> -->
-    
+  <!--
 <h3 align="left">Links</h3>
-
+ <!--
 ###
 
+ <!--
 <div align="left">
   <a target="_blank" href="https://gitlab.com/cu-e" ><img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  /></a>
   <a target="_blank" href="https://github.com/cu-e/" ><img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  /></a>
   <a target="_blank" href="t.me/cuee_e" ><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" height="40" alt="vk logo"  />
-</div>
-    <!--
+</div> 
 <h2>Мой стек:</h2>
 <h3 align="center">BackEnd</h3>
 <div align="center">
