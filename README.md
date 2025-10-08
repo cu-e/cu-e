@@ -9,7 +9,9 @@
     Egor Toropov <br>
     19 y.o <br>
     URFU ММ'28 <br>
-    Developer at tochka.com <br>
+    ex Developer at tochka.com
+    Ищу работу!
+    <br>
   </div>
 <!-- </div>
   <br>
