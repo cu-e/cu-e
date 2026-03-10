@@ -10,7 +10,6 @@
     19 y.o <br>
     URFU ММ'28 <br>
     ex Developer at tochka.com <br>
-    Ищу работу!
     <br>
   </div>
 <!-- </div>
