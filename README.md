@@ -7,7 +7,7 @@
   <img src="https://github.com/cu-e/cu-e/blob/main/2024-10-27%2018.27.04.jpg" height="80" alt="gitlab logo" align="left" />
   <div>
     Egor Toropov <br>
-    19 y.o <br>
+    20 y.o <br>
     URFU ММ'28 <br>
      <br>
     <br>
